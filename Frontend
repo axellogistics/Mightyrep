@@ -1,0 +1,22 @@
+/ai-web-project
+│
+├── backend
+│   ├── src
+│   │   └── index.js               # Your Express backend code
+│   ├── package.json
+│   ├── .env.example               # Example env vars for backend
+│   └── README.md                  # Backend README
+│
+├── frontend
+│   └── grapesjs-llm-demo
+│       ├── pages
+│       │   ├── index.js           # Main Next.js page or editor page
+│       │   └── api                 # (If any frontend API routes)
+│       ├── public
+│       ├── styles
+│       ├── package.json
+│       ├── next.config.js
+│       └── README.md              # Frontend README
+│
+├── README.md                     # Root README with instructions
+└── .gitignore
